@@ -1,2 +1,10 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
+.navbar-brand img.logo{
+    max-height: 50px;
+}
+
+nav.navbar.bootsnav ul.nav > li > a{
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+}
