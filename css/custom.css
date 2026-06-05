@@ -8,3 +8,8 @@ nav.navbar.bootsnav ul.nav > li > a{
     padding-top: 4px !important;
     padding-bottom: 4px !important;
 }
+
+.footer-main img {
+    max-height: 80px;
+    width: auto;
+}
